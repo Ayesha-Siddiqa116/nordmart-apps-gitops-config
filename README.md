@@ -1,6 +1,6 @@
 # nordmart-apps-gitops-config
 
-Single source of truth for declarative workloads to be deployed on [SAAP](https://www.stakater.com/saap-kubernetes-openshift) (Stakater App Agility Platform).
+.Single source of truth for declarative workloads to be deployed on [SAAP](https://www.stakater.com/saap-kubernetes-openshift) (Stakater App Agility Platform).
 
 Stakater opinionated gitops repository structure:
 
